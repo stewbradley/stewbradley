@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stewbradley
-- 👀 I’m interested in startups, blockchain, lisp, and problem solving.
-- 🌱 I’m currently learning C and lisp. 
+- 👀 I’m interested in startups, blockchain, math, and games of all types.
+- 🌱 I’m currently learning C. 
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 You can reach me on Twitter. @stewbradley
 
