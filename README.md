@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stewbradley
-- 👀 I’m interested in AI (agents), startups, web development, math, and games of all types.
+- 👀 I’m interested in systems, startups, web development, math, and games of all types.
 - 🌱 I’m currently learning React and Next.js 
 - 💞️ I’m looking to collaborate on novel agent concepts.
 - 📫 You can reach me on Twitter. @stewbradley
